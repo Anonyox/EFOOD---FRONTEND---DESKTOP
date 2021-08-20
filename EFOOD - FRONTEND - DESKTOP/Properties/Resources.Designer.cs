@@ -83,49 +83,9 @@ namespace EFOOD___FRONTEND___DESKTOP.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _4d7b1db3ab {
-            get {
-                object obj = ResourceManager.GetObject("4d7b1db3ab", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _5c2ce626e0321_acai66 {
-            get {
-                object obj = ResourceManager.GetObject("5c2ce626e0321_acai66", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap _5c2ce626e0321_acai661 {
             get {
                 object obj = ResourceManager.GetObject("5c2ce626e0321_acai661", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Acai_Mix_Png {
-            get {
-                object obj = ResourceManager.GetObject("Acai-Mix-Png", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap barra_de_chocolate {
-            get {
-                object obj = ResourceManager.GetObject("barra-de-chocolate", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -143,29 +103,9 @@ namespace EFOOD___FRONTEND___DESKTOP.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cadeado_trancado {
-            get {
-                object obj = ResourceManager.GetObject("cadeado-trancado", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap chantilly {
             get {
                 object obj = ResourceManager.GetObject("chantilly", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap clockwise_arrow {
-            get {
-                object obj = ResourceManager.GetObject("clockwise-arrow", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -183,49 +123,9 @@ namespace EFOOD___FRONTEND___DESKTOP.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap clockwise_arrow__2_ {
-            get {
-                object obj = ResourceManager.GetObject("clockwise-arrow (2)", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap copo_de_plastico__1_ {
-            get {
-                object obj = ResourceManager.GetObject("copo-de-plastico (1)", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap copo_de_plastico__2_ {
             get {
                 object obj = ResourceManager.GetObject("copo-de-plastico (2)", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap download {
-            get {
-                object obj = ResourceManager.GetObject("download", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap download1 {
-            get {
-                object obj = ResourceManager.GetObject("download1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -243,29 +143,9 @@ namespace EFOOD___FRONTEND___DESKTOP.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap landscape_cityscape_ellysiumn_city_moon_hd_wallpaper_preview {
+        internal static System.Drawing.Bitmap LOGO_EFFOD {
             get {
-                object obj = ResourceManager.GetObject("landscape-cityscape-ellysiumn-city-moon-hd-wallpaper-preview", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap leao_leao_cabeca_lateral {
-            get {
-                object obj = ResourceManager.GetObject("leao-leao-cabeca-lateral", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap menu_de_tres_linhas {
-            get {
-                object obj = ResourceManager.GetObject("menu-de-tres-linhas", resourceCulture);
+                object obj = ResourceManager.GetObject("LOGO-EFFOD", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -313,56 +193,6 @@ namespace EFOOD___FRONTEND___DESKTOP.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap pngegg1 {
-            get {
-                object obj = ResourceManager.GetObject("pngegg1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap pngfind_com_aai_png_3728511 {
-            get {
-                object obj = ResourceManager.GetObject("pngfind.com-aai-png-3728511", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap pngfind1 {
-            get {
-                object obj = ResourceManager.GetObject("pngfind1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap pngfind2 {
-            get {
-                object obj = ResourceManager.GetObject("pngfind2", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap pngwing_com {
-            get {
-                object obj = ResourceManager.GetObject("pngwing.com", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap pngwing1 {
             get {
                 object obj = ResourceManager.GetObject("pngwing1", resourceCulture);
@@ -383,26 +213,6 @@ namespace EFOOD___FRONTEND___DESKTOP.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap salada_de_frutas1 {
-            get {
-                object obj = ResourceManager.GetObject("salada-de-frutas1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Screenshot_1 {
-            get {
-                object obj = ResourceManager.GetObject("Screenshot_1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap Screenshot_2 {
             get {
                 object obj = ResourceManager.GetObject("Screenshot_2", resourceCulture);
@@ -413,9 +223,9 @@ namespace EFOOD___FRONTEND___DESKTOP.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap sombra_de_usuario_masculino {
+        internal static System.Drawing.Bitmap SENHA_EFOOD {
             get {
-                object obj = ResourceManager.GetObject("sombra-de-usuario-masculino", resourceCulture);
+                object obj = ResourceManager.GetObject("SENHA-EFOOD", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -423,39 +233,9 @@ namespace EFOOD___FRONTEND___DESKTOP.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap thumb_1920_513907 {
+        internal static System.Drawing.Bitmap USUARIO_EFOOD {
             get {
-                object obj = ResourceManager.GetObject("thumb-1920-513907", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap thumb_1920_5139071 {
-            get {
-                object obj = ResourceManager.GetObject("thumb-1920-5139071", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap white_bold_mosaic_wallpaper {
-            get {
-                object obj = ResourceManager.GetObject("white-bold-mosaic-wallpaper", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap yz14_b4mf_190117 {
-            get {
-                object obj = ResourceManager.GetObject("yz14_b4mf_190117", resourceCulture);
+                object obj = ResourceManager.GetObject("USUARIO-EFOOD", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

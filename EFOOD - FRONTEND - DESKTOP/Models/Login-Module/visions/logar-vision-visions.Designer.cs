@@ -37,12 +37,12 @@ namespace EFOOD___FRONTEND___DESKTOP.Models.Login_Module.visions
             this.panel2 = new System.Windows.Forms.Panel();
             this.panel1 = new System.Windows.Forms.Panel();
             this.lblLogin = new System.Windows.Forms.Label();
-            this.pcbLogo = new System.Windows.Forms.PictureBox();
             this.pcbSenha = new System.Windows.Forms.PictureBox();
             this.pcbUser = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.pcbLogo)).BeginInit();
+            this.pcbLogo = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pcbSenha)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcbUser)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pcbLogo)).BeginInit();
             this.SuspendLayout();
             // 
             // txtPassword
@@ -133,21 +133,9 @@ namespace EFOOD___FRONTEND___DESKTOP.Models.Login_Module.visions
             this.lblLogin.TabIndex = 8;
             this.lblLogin.Text = "LOG IN";
             // 
-            // pcbLogo
-            // 
-            this.pcbLogo.BackgroundImage = global::EFOOD___FRONTEND___DESKTOP.Properties.Resources.leao_leao_cabeca_lateral;
-            this.pcbLogo.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pcbLogo.ErrorImage = global::EFOOD___FRONTEND___DESKTOP.Properties.Resources.leao_leao_cabeca_lateral;
-            this.pcbLogo.Location = new System.Drawing.Point(85, 19);
-            this.pcbLogo.Name = "pcbLogo";
-            this.pcbLogo.Size = new System.Drawing.Size(87, 71);
-            this.pcbLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pcbLogo.TabIndex = 7;
-            this.pcbLogo.TabStop = false;
-            // 
             // pcbSenha
             // 
-            this.pcbSenha.BackgroundImage = global::EFOOD___FRONTEND___DESKTOP.Properties.Resources.cadeado_trancado;
+            this.pcbSenha.BackgroundImage = global::EFOOD___FRONTEND___DESKTOP.Properties.Resources.SENHA_EFOOD;
             this.pcbSenha.Location = new System.Drawing.Point(14, 252);
             this.pcbSenha.Name = "pcbSenha";
             this.pcbSenha.Size = new System.Drawing.Size(25, 25);
@@ -157,13 +145,25 @@ namespace EFOOD___FRONTEND___DESKTOP.Models.Login_Module.visions
             // 
             // pcbUser
             // 
-            this.pcbUser.BackgroundImage = global::EFOOD___FRONTEND___DESKTOP.Properties.Resources.sombra_de_usuario_masculino;
+            this.pcbUser.BackgroundImage = global::EFOOD___FRONTEND___DESKTOP.Properties.Resources.USUARIO_EFOOD;
             this.pcbUser.Location = new System.Drawing.Point(14, 180);
             this.pcbUser.Name = "pcbUser";
             this.pcbUser.Size = new System.Drawing.Size(25, 25);
             this.pcbUser.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pcbUser.TabIndex = 17;
             this.pcbUser.TabStop = false;
+            // 
+            // pcbLogo
+            // 
+            this.pcbLogo.BackgroundImage = global::EFOOD___FRONTEND___DESKTOP.Properties.Resources.LOGO_EFFOD;
+            this.pcbLogo.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pcbLogo.ErrorImage = global::EFOOD___FRONTEND___DESKTOP.Properties.Resources.LOGO_EFFOD;
+            this.pcbLogo.Location = new System.Drawing.Point(85, 19);
+            this.pcbLogo.Name = "pcbLogo";
+            this.pcbLogo.Size = new System.Drawing.Size(87, 71);
+            this.pcbLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pcbLogo.TabIndex = 7;
+            this.pcbLogo.TabStop = false;
             // 
             // logar_vision
             // 
@@ -186,9 +186,9 @@ namespace EFOOD___FRONTEND___DESKTOP.Models.Login_Module.visions
             this.Name = "logar_vision";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "logar_vision";
-            ((System.ComponentModel.ISupportInitialize)(this.pcbLogo)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcbSenha)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcbUser)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pcbLogo)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
